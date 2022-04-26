@@ -1,4 +1,4 @@
-<b>Daekmode :</b></br></br>
+<b>Dark mode :</b></br></br>
  <img src="https://i.vgy.me/rhkInt.png" align="center" style="width: 60%" /></br></br>
 <hr>
 
